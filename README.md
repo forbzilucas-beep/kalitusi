@@ -13,6 +13,6 @@ Kalitusi Nature Resort website, built as a static multi-page site.
 
 ## GitHub Pages
 
-Publish from the `main` branch and `/ (root)` in the repository's Pages settings. The site will then be available at:
+Every push to `main` deploys the site through GitHub Actions. Once the first deployment succeeds, the site will be available at:
 
 https://forbzilucas-beep.github.io/kalitusi/
